@@ -1,6 +1,6 @@
 # Upside Down Lego Pyramid in 6 Easy Steps
 ### Instructions by: William Jackson
-##### Materials needed: 2x4 Lego Pieces x 15
+##### Materials needed: 15 2x4 Lego Pieces 
 ![Finished Product](Lego_Photos/IMG_4605.JPG)
 ### Step 1: Create the Foundation
 ##### Materials needed: 2x4 Lego Pieces x 5 (blue, white x 3, orange)
